@@ -1,12 +1,5 @@
-<h1> Welcome to Devops class </h1>
-<h2> Steup and deploy using jenkins </h2>
-<h2> Steup and deploy using jenkins and docker </h2>
-<h2> Steup and deploy using jenkins </h2>
-<h2> Steup and deploy using jenkins and docker </h2>
-<h1> testing the piepiline  deploy with the new changes</h1>
-<h1> Welcome to Devops class </h1>
-<h2> Steup and deploy using jenkins </h2>
-<h2> Steup and deploy using jenkins and docker </h2>
-<h2> Steup and deploy using jenkins </h2>
-<h2> Steup and deploy using jenkins and docker </h2>
-<h1> testing the piepiline  deploy with the new changes</h1>
+<h1> Welcome to Devops class</h1>
+<h2> Steup and deploy using jenkins</h2>
+<h3> Steup and deploy using jenkins and docker</h3>
+<h4> Steup and deploy using jenkins and docker</h4>
+<h5> Steup and deploy using jenkins and docker</h5>
